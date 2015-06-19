@@ -1,2 +1,1 @@
-# gettingandcleaning
-Course Project for Getting and Cleaning Data
+# gettingandcleaningCourse Project for Getting and Cleaning DataThe output of this project is a tidy data set, which was generated using the script "run_analysis.R"## run_analysis.RThe run analysis script performs the following activities:- Merge the training and test data sets- apply labels to the data set to identify the values being represented- Filter the master data set to contain only the mean and standard deviation measurements- Reshape the data set into a summarised tidy data set
